@@ -1,5 +1,9 @@
-# Today I Learnd [TIL]
-TIL is a simple way to document things you learn from day to day in an organied way.
 
-A *brain dump* so to speak.  Instead of having to go through webpage bookmarks to find that helpful page, then read through it again to find that helpful nugget of info, just document exactly what you used in your daily life for easy future reference!
+# linux
 
+- [`diff` The Output of Two Commands](linux/diff-the-output-of-two-commands.md)
+
+# vim
+
+- [Format String of JSON to pretty print](vim/format-string-json-to-pretty-print.md)
+- [This is a test](vim/this-is-a-test.md)
