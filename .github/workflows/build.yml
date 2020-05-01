@@ -31,12 +31,6 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Build database
-      run: python build_database.py
-    - name: Update README
-      run: |-
-        python update_readme.py --rewrite
-        cat README.md
     - name: Commit and push if README changed
       run: |-
         git diff
