@@ -7,7 +7,6 @@
 
 - [`diff` The Output of Two Commands](linux/diff-the-output-of-two-commands.md)
 - [SSH With Priveledged Account Alias](linux/ssh-with-priveledged-account-alias.md)
-- [This is a Test](linux/this-is-a-test.md)
 
 # vim
 
