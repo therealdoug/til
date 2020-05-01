@@ -9,7 +9,7 @@ So, if my priv account was `Doug.E.Doug-administrator-overlord`, that's a lot of
 ## Solution:  Linux Alias
 
 ```bash
-> echo alias ssha='Doug.E.Doug-administrator-overlord@$1' >> ~/.bashrc
+> echo alias ssha='ssh -l Doug.E.Doug-administrator-overlord ' >> ~/.bashrc
 
 > source ~/.bashrc
 ```
