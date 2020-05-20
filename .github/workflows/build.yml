@@ -1,6 +1,6 @@
 # Reference: https://github.com/simonw/til/
 
-name: Build README and deploy Datasette
+name: Build README
 
 on:
   push:
